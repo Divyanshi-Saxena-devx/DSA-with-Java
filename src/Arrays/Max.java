@@ -1,4 +1,4 @@
-package Arrays_and_ArrayList;
+package Arrays;
 
 public class Max {
     static void main() {
